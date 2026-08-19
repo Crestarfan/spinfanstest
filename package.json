@@ -1,0 +1,9 @@
+{
+  "name": "spinfans-chatbot",
+  "version": "1.0.0",
+  "description": "Customer product chatbot for SPIN Fans (spinfans.com.sg)",
+  "scripts": {
+    "test": "node chatbot/chatbot.test.js"
+  },
+  "private": true
+}
